@@ -42,6 +42,6 @@ This summary provides a comprehensive overview of the tasks involved in the mini
 ## Resources
 Contained within this document are all outputs generated from the source code
 ## crowdfunding_db
-Contained within this directory are all the screenshots of the database we have constructed
-## ETL_Mini_Project_MJDupont_AKhan_KKota.ipynb
+Contained within this directory are all the screenshots of the database I have constructed
+## ETL_Mini_Project_KKota.ipynb
 Within this file, you will find the source code. 
